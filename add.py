@@ -116,3 +116,5 @@ def name_stu_ocr():
         "学号": stu
     }
     return jsonify(result)
+
+# 提交到github
