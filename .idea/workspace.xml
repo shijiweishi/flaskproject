@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7836f6d-4fc2-497e-845c-2c2999af89da" name="Changes" comment="" />
+    <list default="true" id="d7836f6d-4fc2-497e-845c-2c2999af89da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../new_asr/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../new_asr/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681818685431</updated>
       <workItem from="1681818686899" duration="509000" />
-      <workItem from="1681819300649" duration="413000" />
+      <workItem from="1681819300649" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1681819390456</created>
@@ -103,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681819553247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试1">
+      <created>1681819745377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681819745377</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试2">
+      <created>1681819900590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681819900590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +127,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="测试1" />
+    <MESSAGE value="测试2" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试2" />
   </component>
 </project>
