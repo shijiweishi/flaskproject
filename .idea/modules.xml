@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/flaskproject.iml" filepath="$PROJECT_DIR$/.idea/flaskproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../new_asr/.idea/new_asr.iml" filepath="$PROJECT_DIR$/../new_asr/.idea/new_asr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonnewexam/.idea/pythonnewexam.iml" filepath="$PROJECT_DIR$/../pythonnewexam/.idea/pythonnewexam.iml" />
     </modules>
   </component>
 </project>
