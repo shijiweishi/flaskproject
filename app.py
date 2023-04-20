@@ -72,12 +72,18 @@ def sd():
 @app.route("/login",methods=["GET","POST"])
 def login():
     # 1、接受from格式传参
-    name = request.form.get("name")
-    age = request.form.get("age")
+    # name = request.form.get("name")
+    # age = request.form.get("age")
 
     # 2、传参用json格式，接受也用json
-    # name = request.json.get("name")
-    # age = request.json.get("age")
+    name = request.json.get("name")
+    age = request.json.get("age")
+
+    # 3、request.get_data() 是获取发送post请求携带的请求参数
+    data = request.get_data()
+    print(data, type(data))
+    data1 = json.loads(data)
+    print(data1, type(data1))
 
     result = {
         '传进名字':name,
