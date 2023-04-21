@@ -176,4 +176,4 @@ if __name__ == '__main__':
 
 
 # 修改host就是让其他电脑访问
-# 在flask中使用日志输出:app.logger.info('!!!!!!')
+# 在flask中使用日志输出:app.logger.info('!!!!!!')11
