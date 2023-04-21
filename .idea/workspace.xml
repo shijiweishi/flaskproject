@@ -25,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pythonnewexam" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -172,7 +172,7 @@
       <workItem from="1681975252263" duration="4170000" />
       <workItem from="1681979464904" duration="8909000" />
       <workItem from="1681988463720" duration="3907000" />
-      <workItem from="1682036582026" duration="5917000" />
+      <workItem from="1682036582026" duration="6704000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1681976745886</created>
@@ -398,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682042490281</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="新建">
+      <created>1682042635524</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1682042635524</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
