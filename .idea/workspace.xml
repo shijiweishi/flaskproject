@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38d07850-6b4a-4fce-8e04-85a7df9fb88f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +175,7 @@
       <workItem from="1681975252263" duration="4170000" />
       <workItem from="1681979464904" duration="8909000" />
       <workItem from="1681988463720" duration="3907000" />
-      <workItem from="1682036582026" duration="1410000" />
+      <workItem from="1682036582026" duration="5469000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1681976745886</created>
@@ -330,7 +331,49 @@
       <option name="project" value="LOCAL" />
       <updated>1682037391922</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="新建">
+      <created>1682038024167</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1682038024167</updated>
+    </task>
+    <task id="LOCAL-00024" summary="新建">
+      <created>1682038057498</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1682038057498</updated>
+    </task>
+    <task id="LOCAL-00025" summary="新建">
+      <created>1682040665502</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1682040665502</updated>
+    </task>
+    <task id="LOCAL-00026" summary="新建">
+      <created>1682041030776</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1682041030776</updated>
+    </task>
+    <task id="LOCAL-00027" summary="新建">
+      <created>1682041437536</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1682041437536</updated>
+    </task>
+    <task id="LOCAL-00028" summary="新建">
+      <created>1682041914537</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682041914537</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +393,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../new_asr" />
+      <path value="$PROJECT_DIR$/../pythonProject" />
     </ignored-roots>
     <MESSAGE value="增加导入接口" />
     <MESSAGE value="修改" />
