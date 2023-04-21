@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38d07850-6b4a-4fce-8e04-85a7df9fb88f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../pythonnewexam/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonnewexam/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="38d07850-6b4a-4fce-8e04-85a7df9fb88f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +172,7 @@
       <workItem from="1681975252263" duration="4170000" />
       <workItem from="1681979464904" duration="8909000" />
       <workItem from="1681988463720" duration="3907000" />
-      <workItem from="1682036582026" duration="7104000" />
+      <workItem from="1682036582026" duration="7329000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1681976745886</created>
@@ -428,7 +426,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682043692256</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="修改">
+      <created>1682043759994</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1682043759994</updated>
+    </task>
+    <task id="LOCAL-00038" summary="修改">
+      <created>1682043764172</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1682043764172</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
