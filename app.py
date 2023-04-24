@@ -1,10 +1,6 @@
 # 从flask这个包中导入FLASK类;
 import json
 from flask import Flask,request,jsonify
-# from static.bdapi import bdocr
-# from static.bdapi import jyocr
-# from static.bdapi import writeocr
-# from static.bdapi import formulaocr
 from static.bdapi import *
 import os
 import requests
@@ -149,8 +145,8 @@ def name_stu_ocr():
         stu = ''
 
     result = {
-        "姓名": name,
-        "学号": stu
+        "name": name,
+        "stu": stu
     }
     return jsonify(result)
 
