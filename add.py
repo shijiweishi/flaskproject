@@ -112,8 +112,8 @@ def name_stu_ocr():
         stu = ''
 
     result = {
-        "姓名": name,
-        "学号": stu
+        "name": name,
+        "stu": stu
     }
     return jsonify(result)
 
