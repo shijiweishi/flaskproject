@@ -109,8 +109,8 @@ def name_stu_ocr():
     file1 = r'D:\data\pic\test.jpg'
 
     # file2是ocr读取路径
-    file2 = r'D:\data\pic\test.jpg'
-    file2 = r'D:\data\Ocrpic\学号姓名11.jpg'
+    #file2 = r'D:\data\pic\test.jpg'
+    file2 = r'D:\data\Ocrpic\125.jpg'
 
     # 打开要存储的文件，然后将r.content返回的内容写入文件中，因为图片是二进制格式，所以用‘wb’，写完内容后关闭文件，提示图片保存成功
     with open(file1, 'wb') as f:
@@ -158,9 +158,9 @@ def ocr_recongize():
     #file = 'D:\data\Ocrpic\math_20230410110432.png'
     #file = 'D:\data\Ocrpic\数学整卷_20230410140822.jpg'
     # 网络图片路径问题处理:
-    result = writeocr(file)
+    #result = writeocr(file)
     #result = jyocr(file)
-    #result = bdocr(file)
+    result = bdocr(file)
     #result = formulaocr(file)
     # return '{}'.format(result)
     # jsonify返回unicode编码;
