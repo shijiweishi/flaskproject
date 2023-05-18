@@ -1,6 +1,6 @@
 # 从flask这个包中导入FLASK类;
 import json
-from flask import Flask,request,jsonify
+from flask import request,jsonify
 from static.bdapi import *
 import os
 import requests
@@ -11,7 +11,6 @@ import requests
 # 1、以后出现bug,可以帮助我们快速定位;2、对于寻找模板文件,有一个相对路径;
 
 app = Flask(__name__)
-
 # jsonify返回unicode编码;flask 的默认配置中使用的是ascii编码,在创建flask app时,关闭ascii编码方式.
 app.config['JSON_AS_ASCII'] = False
 
@@ -109,8 +108,8 @@ def name_stu_ocr():
     file1 = r'D:\data\pic\test.jpg'
 
     # file2是ocr读取路径
-    #file2 = r'D:\data\pic\test.jpg'
-    file2 = r'D:\data\Ocrpic\125.jpg'
+    file2 = r'D:\data\pic\test.jpg'
+    #file2 = r'C:\Users\26449\Desktop\new\file\173.jpg'
 
     # 打开要存储的文件，然后将r.content返回的内容写入文件中，因为图片是二进制格式，所以用‘wb’，写完内容后关闭文件，提示图片保存成功
     with open(file1, 'wb') as f:
@@ -118,8 +117,10 @@ def name_stu_ocr():
         f.close()
         print("保存成功")
 
-    data = writeocr(file2)
+    data = jyocr(file2)
     print('data',data)
+
+
     # words_result是包含位置和内容的字典组成列表
     words_result = data['words_result']
     # ocr识别出来的所有字符串放在一个列表word_list;
@@ -168,7 +169,10 @@ def ocr_recongize():
 
 
 if __name__ == '__main__':
-    app.run()
+    from gevent import pywsgi
+    server = pywsgi.WSGIServer(('0.0.0.0', 8888), app)
+    server.serve_forever()
+    # app.run()
 
 
 # 修改host就是让其他电脑访问
