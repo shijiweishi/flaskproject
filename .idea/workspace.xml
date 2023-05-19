@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="406da7e4-0909-4bde-bc09-46035f1c7465" name="Changes" comment="asr">
-      <change beforePath="$PROJECT_DIR$/../RecommenderSystems/ML算法/02逻辑回归完整代码.py" beforeDir="false" afterPath="$PROJECT_DIR$/../RecommenderSystems/ML算法/02逻辑回归完整代码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flaskproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flaskproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonnewexam/logs/eSDK-OBS-PYTHON.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonnewexam/logs/eSDK-OBS-PYTHON.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +206,8 @@
       <workItem from="1684197257731" duration="17913000" />
       <workItem from="1684283297163" duration="13230000" />
       <workItem from="1684369748480" duration="24346000" />
-      <workItem from="1684408240393" duration="1183000" />
+      <workItem from="1684408240393" duration="3422000" />
+      <workItem from="1684454821487" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1682393479882</created>
@@ -248,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683161064728</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="asr">
+      <created>1684409555121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684409555121</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +287,7 @@
     <SUITE FILE_PATH="coverage/flaskproject$Flask_____new_asr_03test_py_.coverage" NAME="Flask (../new_asr/03test.py) Coverage Results" MODIFIED="1682394601137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flaskproject$09LSTM_CTC.coverage" NAME="09LSTM-CTC训练及调用模型参数预测 Coverage Results" MODIFIED="1683160770915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject/语音识别实战" />
     <SUITE FILE_PATH="coverage/flaskproject$01test.coverage" NAME="01test Coverage Results" MODIFIED="1684372000800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../myocr" />
-    <SUITE FILE_PATH="coverage/flaskproject$02.coverage" NAME="02逻辑回归完整代码 Coverage Results" MODIFIED="1684409405536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems/ML算法" />
+    <SUITE FILE_PATH="coverage/flaskproject$02.coverage" NAME="02逻辑回归完整代码 Coverage Results" MODIFIED="1684409453000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems/ML算法" />
     <SUITE FILE_PATH="coverage/flaskproject$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1684381300847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flaskproject$03opencv.coverage" NAME="03opencv实现对号错号识别 Coverage Results" MODIFIED="1683506296840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../myocr" />
     <SUITE FILE_PATH="coverage/flaskproject$Flask_____myocr_app_py_.coverage" NAME="Flask (../myocr/app.py) Coverage Results" MODIFIED="1684399536009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
