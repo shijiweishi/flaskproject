@@ -306,7 +306,7 @@
       <workItem from="1686038161237" duration="13100000" />
       <workItem from="1686096840392" duration="5849000" />
       <workItem from="1686103033212" duration="444000" />
-      <workItem from="1686103619498" duration="192093000" />
+      <workItem from="1686103619498" duration="194203000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1682393479882</created>
@@ -406,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686727618693</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new">
+      <created>1686730164466</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686730164466</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,13 +514,13 @@
     <SUITE FILE_PATH="coverage/flaskproject$app.coverage" NAME="app Coverage Results" MODIFIED="1686646571701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonnewexam" />
     <SUITE FILE_PATH="coverage/flaskproject$load_data.coverage" NAME="06load_data Coverage Results" MODIFIED="1682409681230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems/TEST" />
     <SUITE FILE_PATH="coverage/flaskproject$02pytorch.coverage" NAME="02逻辑回归用pytorch显卡训练 Coverage Results" MODIFIED="1685062057172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems/ML算法" />
-    <SUITE FILE_PATH="coverage/flaskproject$ganen.coverage" NAME="ganen Coverage Results" MODIFIED="1686729623790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems" />
+    <SUITE FILE_PATH="coverage/flaskproject$ganen.coverage" NAME="ganen Coverage Results" MODIFIED="1686732022426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems" />
     <SUITE FILE_PATH="coverage/flaskproject$test.coverage" NAME="test Coverage Results" MODIFIED="1685352353082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject/2022年8月" />
     <SUITE FILE_PATH="coverage/flaskproject$00.coverage" NAME="00 Coverage Results" MODIFIED="1683603955010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonnewexam" />
     <SUITE FILE_PATH="coverage/flaskproject$08LSTM.coverage" NAME="08LSTM翻译一句话 Coverage Results" MODIFIED="1682404219421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonProject/语音识别实战" />
     <SUITE FILE_PATH="coverage/flaskproject$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1685932013062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../myocr" />
     <SUITE FILE_PATH="coverage/flaskproject$simple_dataset.coverage" NAME="simple_dataset Coverage Results" MODIFIED="1686039164974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../myocr/ppocr/data" />
-    <SUITE FILE_PATH="coverage/flaskproject$Flask_____pythonnewexam_app_py_.coverage" NAME="Flask (../pythonnewexam/app.py) Coverage Results" MODIFIED="1686726810480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flaskproject$Flask_____pythonnewexam_app_py_.coverage" NAME="Flask (../pythonnewexam/app.py) Coverage Results" MODIFIED="1686731274386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flaskproject$06load_data__1_.coverage" NAME="06load_data (1) Coverage Results" MODIFIED="1682409706837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RecommenderSystems/TEST" />
     <SUITE FILE_PATH="coverage/flaskproject$001.coverage" NAME="001 Coverage Results" MODIFIED="1683684753511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pythonnewexam" />
     <SUITE FILE_PATH="coverage/flaskproject$Flask_____myocr_app_py___1_.coverage" NAME="Flask (../myocr/app.py) (1) Coverage Results" MODIFIED="1684398771615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
