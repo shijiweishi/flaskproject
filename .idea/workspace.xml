@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="406da7e4-0909-4bde-bc09-46035f1c7465" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonnewexam/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonnewexam/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonnewexam/huawei.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonnewexam/huawei.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonnewexam/ocr/baidu_ocr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonnewexam/ocr/baidu_ocr.py" afterDir="false" />
-    </list>
+    <list default="true" id="406da7e4-0909-4bde-bc09-46035f1c7465" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,7 +303,7 @@
       <workItem from="1686096840392" duration="5849000" />
       <workItem from="1686103033212" duration="444000" />
       <workItem from="1686103619498" duration="202317000" />
-      <workItem from="1686788243737" duration="20363000" />
+      <workItem from="1686788243737" duration="20790000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1682393479882</created>
@@ -436,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686795919321</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="new">
+      <created>1686815453346</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686815453346</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
